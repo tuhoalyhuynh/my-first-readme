@@ -44,3 +44,11 @@ const handleWin = (letter) => {
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+## Steps to installing Tic-Tac-Toe on local machine
+
+1. Go to my [repo](https://github.com/tuhoalyhuynh?tab=repositories)
+2. Go to repository for [Tic-Tac-Toe](https://github.com/tuhoalyhuynh/tic-tac-toe)
+3. `fork` repository and `clone`
+4. In terminal `git clone https://github.com/tuhoalyhuynh/tic-tac-toe` with your clone link
+5. `cd` into directory and `open index.html`
